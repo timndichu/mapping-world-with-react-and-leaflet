@@ -20,12 +20,24 @@ In this series, we embark on an exciting journey of map visualization using Leaf
 
 ## Getting Started 🚀
 
-To follow along with the examples and explore the code, clone this repository to your local machine using the following command:
+1. **Clone the Repository**: To follow along with the examples and explore the code, clone this repository to your local machine using the following command:
 
 ```
 git clone https://github.com/timndichu/mapping-world-with-react-and-leaflet.git
 ```
 
+2. **Choose an Article**: The series comprises multiple articles, each focusing on a specific aspect of map visualization. Select an article that interests you the most and navigate to the corresponding branch using:
+
+```
+git checkout branch-name
+```
+
+3. **Run the Code**: Once you are on the branch corresponding to your chosen article, explore the code examples and run the application on your local development server:
+
+```
+npm install
+npm start
+```
 
 ## Contributing 🤝
 
