@@ -10,13 +10,13 @@ In this series, we embark on an exciting journey of map visualization using Leaf
 
 ## Article Series Index 🗂️
 
-1. [Render a Simple Map](https://example.com/article-1) - *Available Now!*
-2. [Adding Markers and Popups](https://example.com/article-2) - *Coming Soon!*
-3. [Zooming, Panning, and Map Controls](https://example.com/article-3) - *Coming Soon!*
-4. [Interactive Features: Polygons, Lines, and Circles](https://example.com/article-4) - *Coming Soon!*
-5. [Working with External Data: GeoJSON, KML, and Shapefiles](https://example.com/article-5) - *Coming Soon!*
-6. [Customizing Popups, Styling, and Interactivity](https://example.com/article-6) - *Coming Soon!*
-7. [Handling Map Events and User Interactions](https://example.com/article-7) - *Coming Soon!*
+1. [Render a Simple Map](https://dev.to/timndichu/getting-started-with-leafletjs-and-react-rendering-a-simple-map-347j) - *Available Now!*
+2. [Adding Markers and Popups](https://dev.to/timndichu) - *Coming Soon!*
+3. [Zooming, Panning, and Map Controls](https://dev.to/timndichu) - *Coming Soon!*
+4. [Interactive Features: Polygons, Lines, and Circles](https://dev.to/timndichu) - *Coming Soon!*
+5. [Working with External Data: GeoJSON, KML, and Shapefiles](https://dev.to/timndichu) - *Coming Soon!*
+6. [Customizing Popups, Styling, and Interactivity](https://dev.to/timndichu) - *Coming Soon!*
+7. [Handling Map Events and User Interactions](https://dev.to/timndichu) - *Coming Soon!*
 
 ## Getting Started 🚀
 
